@@ -2,6 +2,7 @@
 
 A new Flutter project.
 # new
+we are ready to get started
 
 ## Getting Started
 
